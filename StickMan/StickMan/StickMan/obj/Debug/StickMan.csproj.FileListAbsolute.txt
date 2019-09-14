@@ -1,0 +1,13 @@
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\StickMan.exe.config
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\StickMan.exe
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\StickMan.pdb
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.csprojAssemblyReference.cache
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.Form1.resources
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.Properties.Resources.resources
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.csproj.GenerateResource.cache
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.csproj.CoreCompileInputs.cache
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.exe
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\obj\Debug\StickMan.pdb
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\Resources\stick.png
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\Resources\arrow.jpg
+C:\Users\yongki40\source\repos\StickMan\StickMan\StickMan\bin\Debug\Resources\panah.png
